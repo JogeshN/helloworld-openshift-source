@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "helloworld-openshift-source", "helloworld-openshift-source.xproj", "{83B0087A-DB4A-42DB-8661-64AC8F7219BA}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "aspapp01", "aspapp01.xproj", "{83B0087A-DB4A-42DB-8661-64AC8F7219BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

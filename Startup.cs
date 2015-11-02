@@ -20,6 +20,7 @@ namespace helloweb
             app.Run(async (context) =>
             {
                 await context.Response.WriteAsync("<h1>My First ASP.NET!</h1>");
+                await context.Response.WriteAsync("<h2>Running Asp .Net 5.0 Application on OpenShift Cloud!</h2>");
             });
         }
     }

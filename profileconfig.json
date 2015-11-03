@@ -1,1 +1,1 @@
-{"OpenshiftServer":"https://ose3m-dev.example.com:8443","ProjectName":"click2cloud","BuildConfig":"aspapp01","ServiceRoute":"http://aspapp01-click2cloud.cloudapps.example.com"}
+{"OpenshiftServer":"https://ose3m-dev.example.com:8443","ProjectName":"milestone","BuildConfig":"milestoneapp01","ServiceRoute":"http://milestoneapp01-milestone.cloudapps.example.com"}
